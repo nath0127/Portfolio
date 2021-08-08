@@ -15,7 +15,7 @@ exports.default = {
     entities: [Post_1.Post, User_1.User],
     user: 'postgres',
     password: 'please',
-    dbName: 'portfolio',
+    dbName: 'sportfolio',
     type: 'postgresql',
     debug: !constants_1.__prod__,
 };
